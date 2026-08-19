@@ -1,0 +1,6 @@
+{
+  "name": "Geometry Dash Demon List & Run Tracker",
+  "description": "Full #1-1500 Geometry Dash Demon List with real-time search, filters, Pointercrate-accurate points calculator, and an integrated run and practice progress tracker with audio feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
